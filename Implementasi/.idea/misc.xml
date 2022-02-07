@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/BandungZooChatbot/app/src/main/res/layout/activity_chatbot.xml" value="0.17910447251321387" />
+        <entry key="..\:/Android/BandungZooChatbot/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/BandungZooChatbot/app/src/main/res/layout/activity_maps.xml" value="0.35820894502642775" />
+        <entry key="..\:/Android/BandungZooChatbot/app/src/main/res/layout/chatbot_actionbar_layout.xml" value="0.1" />
+        <entry key="..\:/Android/BandungZooChatbot/app/src/main/res/layout/chatbot_chat_layout.xml" value="0.2364179037174423" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
